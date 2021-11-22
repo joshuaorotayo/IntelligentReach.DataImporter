@@ -1,0 +1,9 @@
+D:\Documents\Documentation\DataImporter\DataImporter.Core\bin\Debug\netcoreapp3.1\DataImporter.Core.deps.json
+D:\Documents\Documentation\DataImporter\DataImporter.Core\bin\Debug\netcoreapp3.1\DataImporter.Core.dll
+D:\Documents\Documentation\DataImporter\DataImporter.Core\bin\Debug\netcoreapp3.1\DataImporter.Core.pdb
+D:\Documents\Documentation\DataImporter\DataImporter.Core\obj\Debug\netcoreapp3.1\DataImporter.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Documentation\DataImporter\DataImporter.Core\obj\Debug\netcoreapp3.1\DataImporter.Core.AssemblyInfoInputs.cache
+D:\Documents\Documentation\DataImporter\DataImporter.Core\obj\Debug\netcoreapp3.1\DataImporter.Core.AssemblyInfo.cs
+D:\Documents\Documentation\DataImporter\DataImporter.Core\obj\Debug\netcoreapp3.1\DataImporter.Core.csproj.CoreCompileInputs.cache
+D:\Documents\Documentation\DataImporter\DataImporter.Core\obj\Debug\netcoreapp3.1\DataImporter.Core.dll
+D:\Documents\Documentation\DataImporter\DataImporter.Core\obj\Debug\netcoreapp3.1\DataImporter.Core.pdb
